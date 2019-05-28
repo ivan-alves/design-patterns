@@ -1,8 +1,8 @@
 package br.com.ivan.design.patterns.teste;
 import br.com.ivan.design.patterns.controllers.CalculadorDeImpostos;
 import br.com.ivan.design.patterns.interfaces.Imposto;
-import br.com.ivan.design.patterns.models.ICCC;
 import br.com.ivan.design.patterns.models.Orcamento;
+import br.com.ivan.design.patterns.models.impostos.ICCC;
 
 public class TesteImpostoICCC {
 

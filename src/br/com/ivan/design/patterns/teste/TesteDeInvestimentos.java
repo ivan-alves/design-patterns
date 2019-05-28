@@ -2,10 +2,10 @@ package br.com.ivan.design.patterns.teste;
 
 import br.com.ivan.design.patterns.controllers.RealizadorDeInvestimentos;
 import br.com.ivan.design.patterns.interfaces.Investimento;
-import br.com.ivan.design.patterns.models.Arrojado;
-import br.com.ivan.design.patterns.models.Conservador;
 import br.com.ivan.design.patterns.models.Conta;
-import br.com.ivan.design.patterns.models.Moderado;
+import br.com.ivan.design.patterns.models.investidor.Arrojado;
+import br.com.ivan.design.patterns.models.investidor.Conservador;
+import br.com.ivan.design.patterns.models.investidor.Moderado;
 
 public class TesteDeInvestimentos {
 
