@@ -17,7 +17,7 @@ public class TesteDeInvestimentos {
 		
 		Conta conta = new Conta();
 		
-		conta.deposita(505.0);
+		conta.deposita("Ivan", 505.0);
 		
 		RealizadorDeInvestimentos realizadorDeInvestimentos = new RealizadorDeInvestimentos();
 		

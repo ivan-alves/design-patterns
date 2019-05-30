@@ -3,7 +3,7 @@ package br.com.ivan.design.patterns.models.descontos;
 import br.com.ivan.design.patterns.interfaces.Desconto;
 import br.com.ivan.design.patterns.models.Orcamento;
 
-public class Semdesconto implements Desconto {
+public class SemDesconto implements Desconto {
 
 	@Override
 	public double desconto(Orcamento orcamento) {
